@@ -6,7 +6,7 @@ def left_reiman_sum():
     first_bound = float(input("Enter first bound -> "))
     second_bound = float(input("Enter second bound -> "))
     n = float(input("Enter how many rectanges you want to use in Reiman sum calucluation -> "))
-    delta_x = abs((second_bound-first_bound))/n
+    delta_x = (second_bound-first_bound) / n
 
     counter = first_bound
 
