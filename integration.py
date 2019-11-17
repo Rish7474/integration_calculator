@@ -2,7 +2,7 @@
 import math
 from random import uniform
 from random import randint
-"""IMPORTANT: When inputting a function it most follow python's mathmetical format
+"""IMPORTANT: When inputting a function it most follow python's mathmatical format
             Example: When mutiplying use *, division use /, etc."""
 def left_reiman_sum():
     print("Left Reiman Approximation:")
